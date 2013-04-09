@@ -13,3 +13,5 @@ Install node.js and npm and
 ### To run TTY Playback and play recorded examples
 
 `coffee env.coffee`
+
+and go on [http://localhost:3000](http://localhost:3000)

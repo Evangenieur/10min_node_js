@@ -11,11 +11,13 @@
   },
   "dependencies": {
     "coffee-script": "1.4.0",
-    "glob": "3.1.21",
+    "glob": "~3.1.21",
     "express": "~3.1.1",
     "scuttlebutt": "~5.5.20",
     "colors": "~0.6.0-1",
-    "event-stream": "~3.0.13"
+    "event-stream": "~3.0.13",
+    "underscore": "~1.4.4",
+    "tty.js": "~0.2.10"
   },
   "engines": {
     "node": ">=0.8.x"
