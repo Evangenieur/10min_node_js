@@ -1,0 +1,7 @@
+screen node-dev express_p2p_server.js 9000 9001 9002
+split
+focus
+screen node-dev express_p2p_server.js 9001 9000 9002
+split
+focus
+screen node-dev express_p2p_server.js 9002 9000 9001
