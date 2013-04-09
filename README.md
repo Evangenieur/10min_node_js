@@ -6,7 +6,9 @@ Install node.js and npm and
 
 `npm install`
 
-`npm install node-dev -g`
+`npm install -g node-dev`
+
+`npm install -g coffee-script`
 
 ### To run TTY Playback and play recorded examples
 
